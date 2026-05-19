@@ -1,0 +1,17 @@
+streamlit
+torch
+transformers
+sentence-transformers
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+faiss-cpu
+pandas
+plotly
+pillow
+sentencepiece
+protobuf
+accelerate
+safetensors
+sqlite3
